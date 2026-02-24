@@ -137,6 +137,9 @@ This project was inspired by a Power BI tutorial available on YouTube.
 
 The dataset was sourced from the video description, and the dashboard was developed independently as part of hands-on learning and skill development in Power BI.
 
+## 10. Dashboard
+https://github.com/sumanayak11/blinkit-dashboard/blob/main/blinkitSalesAnalysis.PNG
+
 
 
 
